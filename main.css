@@ -6,10 +6,12 @@ body>div {
     border-radius: 25px;
     padding-top: 25px;
 }
+
 header {
     display: inline-block;
     width: 100%;
 }
+
         header>a {
         display: inline-block;
         float: right;
